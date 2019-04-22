@@ -13,5 +13,9 @@
     </head>
     <body>
         <h1>Atracciones</h1>
+        
+        <a href="index.jsp">
+                Volver a menú principal
+            </a>
     </body>
 </html>

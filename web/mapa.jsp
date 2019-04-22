@@ -13,5 +13,9 @@
     </head>
     <body>
         <h1>Mapa</h1>
+        
+        <a href="index.jsp">
+                Volver a menú principal
+            </a>
     </body>
 </html>

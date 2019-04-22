@@ -12,7 +12,9 @@
         <title>Mapa</title>
     </head>
     <body>
-        <h1>Mapa</h1>
+        <h1>Mapa de Buenos Aires</h1>
+        
+        <img src="mapa.PNG">
         
         <a href="index.jsp">
                 Volver a menú principal

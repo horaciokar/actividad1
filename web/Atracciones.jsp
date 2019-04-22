@@ -9,11 +9,19 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Atracciones</title>
+        <title>Excursiones en Buenos Aires</title>
     </head>
     <body>
-        <h1>Atracciones</h1>
+        <h1>Atracciones en Buenos Aires</h1>
         
+     <ul>
+      <li>Teatro Colón</li>
+      <li>Puerto Madero</li>
+      <li>Caminito</li>
+      <li>Cancha de Boca</li>
+      <li>Bosques de Palermo</li>
+      <li>Jardín Japonés</li>
+    </ul>
         <a href="index.jsp">
                 Volver a menú principal
             </a>

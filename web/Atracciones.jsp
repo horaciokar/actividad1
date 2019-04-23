@@ -22,6 +22,7 @@
       <li>Bosques de Palermo</li>
       <li>Jardín Japonés</li>
     </ul>
+        <br></br>
         <a href="index.jsp">
                 Volver a menú principal
             </a>

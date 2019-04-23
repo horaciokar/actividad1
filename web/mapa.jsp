@@ -15,7 +15,7 @@
         <h1>Mapa de Buenos Aires</h1>
         
         <img src="mapa.PNG">
-        
+        <br></br>
         <a href="index.jsp">
                 Volver a menú principal
             </a>
